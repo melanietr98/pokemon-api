@@ -2,7 +2,7 @@
   <a href="https://pokemon-poke-dex-api.netlify.app//" target="blank">
     <img src="https://i.imgur.com/wFJgJO8.pngf" alt="https://pokemon-poke-dex-api.netlify.app/" height="40" width="40">
   </a><br>
-  Click to play
+  Click to view Pokédex
 </p>
 <h2 align="center">Pokédex</h2>  
 <p align="center">
