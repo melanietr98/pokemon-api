@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://pokemon-poke-dex-api.netlify.app//" target="blank">
-    <img src="https://i.imgur.com/wFJgJO8.pngf" alt="https://pokemon-poke-dex-api.netlify.app/" height="40" width="40">
+  <a href="https://pokemonpokedexproject.netlify.app" target="blank">
+    <img src="https://i.imgur.com/wFJgJO8.pngf" alt="https://pokemonpokedexproject.netlify.app" height="40" width="40">
   </a><br>
   Click to view Pokédex
 </p>
